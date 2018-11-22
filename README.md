@@ -5,13 +5,13 @@ Inspired by Twitch intermission screens, this uses iframes to hotlink up to 6 gi
 ## Usage
 Put this on a server, or locally, and add the following parameters to the URL:
 
-`background` : The URI of the image to put in the background.
-`gif1`: The URI of the top-left GIF
-`gif2`: The URI of the top-middle GIF
-`gif3`: The URI of the top-right GIF
-`gif4`: The URI of the bottom-left GIF
-`gif5`: The URI of the bottom-middle GIF
-`gif6`: The URI of the bottom-right GIF
+`background` : The URI of the image to put in the background.  
+`gif1`: The URI of the top-left GIF  
+`gif2`: The URI of the top-middle GIF  
+`gif3`: The URI of the top-right GIF  
+`gif4`: The URI of the bottom-left GIF  
+`gif5`: The URI of the bottom-middle GIF  
+`gif6`: The URI of the bottom-right GIF  
 
 ## Example
 
