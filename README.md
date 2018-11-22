@@ -15,7 +15,7 @@ Put this on a server, or locally, and add the following parameters to the URL:
 
 ## Example
 
-```file:///Users/example/Desktop/gif_wall.html?background=http://magicofbollywood.com/wp-content/uploads/2016/06/test.png&gif1=https://giphy.com/embed/QVnCaBFrzxVU4&gif1=https://giphy.com/embed/QVnCaBFrzxVU4&gif2=https://giphy.com/embed/QVnCaBFrzxVU4&gif3=https://giphy.com/embed/QVnCaBFrzxVU4&gif4=https://giphy.com/embed/QVnCaBFrzxVU4&gif5=https://giphy.com/embed/QVnCaBFrzxVU4&gif6=https://giphy.com/embed/QVnCaBFrzxVU4```
+[Live Example](http://aelipsi.github.io/gif_wall.html?background=http://magicofbollywood.com/wp-content/uploads/2016/06/test.png&gif1=https://giphy.com/embed/QVnCaBFrzxVU4&gif1=https://giphy.com/embed/QVnCaBFrzxVU4&gif2=https://giphy.com/embed/QVnCaBFrzxVU4&gif3=https://giphy.com/embed/QVnCaBFrzxVU4&gif4=https://giphy.com/embed/QVnCaBFrzxVU4&gif5=https://giphy.com/embed/QVnCaBFrzxVU4&gif6=https://giphy.com/embed/QVnCaBFrzxVU4)
 
 
 
